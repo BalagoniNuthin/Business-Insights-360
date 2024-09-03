@@ -11,7 +11,7 @@ The project data files have not been uploaded to this repository in compliance w
 
 ## Contents:
 Please find the sectional links for the project below:
-- [BI 360 Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2UwZTJjOWQtYjA0MC00ZDVlLThiYTMtZGY4NDc1YzRkYTZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [BI 360 Live Dashboard Link](https://app.powerbi.com/groups/me/reports/e42b0932-d06a-4a53-a2c1-c1568a128fc4/ce05bcd90053153c5249?experience=power-bi)
 - [Introduction to AtliQ Hardware](#introduction-to-atliq-hardware)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
@@ -97,7 +97,7 @@ ROCCC Evaluation:
 ---
 
 ## Data Model:
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Data%20Model/Data%20Model%20Final.PNG" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/DataModel.jpg" width="100%" height="100%"> </div>
 
 ---
 
@@ -181,37 +181,37 @@ Please find the documentation links for the project phase-wise implementation be
 
 ### I. Home View: Dashboard Central navigation with buttons to navigate to all views.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Dashboard/Dashboard%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Home%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Home%20Page.jpg" width="100%" height="100%"> </div>
 
 ### II. Finance View: Aimed at enhancing financial planning and cost control. 
 
 Features P & L statement, Net Sales Trend over time, Net Sales Breakdown over Products & Customers and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Dashboard/Dashboard%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Finance%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Finance%20View.jpg" width="100%" height="100%"> </div>
 
 ### III. Sales View: Aimed at boosting sales revenue and market share. 
 
 Features Customer performance by NS & GM %, Gross Margin % Variance across Customers & Products, NS Breakdown and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Dashboard/Dashboard%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Sales%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Sales%20View.jpg" width="100%" height="100%"> </div>
 
 ### IV. Marketing View: Aimed at elevating brand visibility and customer engagement. 
 
 Features Segment Performance by NP %, Gross Margin Breakdown, Net Profit % Variance across Regional/Segment Performance and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Dashboard/Dashboard%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Marketing%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Marketing%20View.jpg" width="100%" height="100%"> </div>
 
 ### V. Supply Chain View: Aimed at optimizing inventory management and better demand forecasting. 
 
 Features Forecast Accuracy and Net Error Trend, Forecast Accuracy % by Customer & Products and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Dashboard/Dashboard%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Supply%20Chain%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/SuppyChainView.jpg" width="100%" height="100%"> </div>
 
 ### VI. Executive View: Aimed at providing top level view on overall organizational performance. 
 
 Features NS-GM%-NP%-FA% KPIs, Revenue Contribution by Divison/Channel, Top 5 Customers & Products, Sub Zone performance Market Share Trend and more.
 
-<div align="center"> <img src="https://github.com/5ifar/Business_Insights_360/blob/main/Power%20BI%20Dashboard/Dashboard%20Images/Business%20Insights%20360%20Report%20-%20Reinvented%20-%20Executive%20View.png" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Executive%20View.jpg" width="100%" height="100%"> </div>
 
 ---
 
