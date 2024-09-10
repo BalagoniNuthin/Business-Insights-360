@@ -1,9 +1,9 @@
-# <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> Business Insights 360
+# Business Insights 360
 
 This repository serves as my documentation for the AtliQ Hardwares Business Insights 360 - Power BI Project.
 It was created as a self-learning project for the course: [Get Job Ready: Power BI Data Analytics for All Levels 2.0](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project) by [Codebasics](https://codebasics.io/).
 
-The entire project has been implemented using Microsoft Power BI Desktop 2.128.751.0 and published on Microsoft Power BI Service.
+The entire project has been implemented using Microsoft Power BI Desktop 2.132.1053.0 and published on Microsoft Power BI Service.
 
 The project data files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
 
@@ -12,7 +12,7 @@ The project data files have not been uploaded to this repository in compliance w
 ## Contents:
 Please find the sectional links for the project below:
 - [BI 360 Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMWMyYTYwMWItY2Y4Ny00Njg0LTkyZDktOWJhNGZjNmYwYTlkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- [Introduction to AtliQ Hardware](#introduction-to-atliq-hardware)
+- [Introduction to Nicolas Hardware](#introduction-to-Nicolas-hardware)
 - [Project Objective](#project-objective)
 - [Tools used & Methodologies implemented](#tools-used)
 - [About the Dataset](#about-the-dataset)
@@ -29,20 +29,20 @@ Please find the sectional links for the project below:
 
 ---
 
-## Introduction to AtliQ Hardware:
+## Introduction to Nicolas Hardware:
 **Domain:** Consumer Goods | **Functions:** Finance, Sales, Marketing, Supply Chain and Executive
 
-- AtliQ Hardwares is company that sells computer hardware and peripherals like PC, mouse, printer etc. to clients across the world.
+- Nicolas Hardwares is company that sells computer hardware and peripherals like PC, mouse, printer etc. to clients across the world.
 - They have a major B2B business model wherein they sell to stores like Croma, Best Buy, Staples, Flipkart etc. who then sell it to the end users (consumers). These stores are their main customers.
 - They sell through 3 channels: Retailer, Direct and Distributor.
-- AtliQ Hardwares’s Customers are of two types. Both these Platforms are called Retailer channels.
+- Nicolas Hardwares’s Customers are of two types. Both these Platforms are called Retailer channels.
   1. Brick & Mortar Customer: Actual physical stores e.g. Croma, Best Buy
   2. E-commerce Customer: Online websites E.g. Amazon, Flipkart
-- AtliQ Hardwares also has a minor B2C business model wherein they own stores: AtliQ E-store and AtliQ Exclusive. These are called Direct channels.
+- Nicolas Hardwares also has a minor B2C business model wherein they own stores: Nicolas E-store and Nicolas Exclusive. These are called Direct channels.
 - They also have Distributors in some countries with restricted trade. E.g. Neptune
 
 ## Project Objective:
-AltiQ Hardware, a global leader in computers and accessories, faced unexpected losses after opening a store in America. These setbacks were identified to be caused due to reliance on outdated methods such as Excel for data analysis. To address this issue, the company's leadership recognized the need for a transformative approach to leveraging data for informed decision-making. With competitors boasting robust analytics teams, AltiQ Hardware recognizes the urgent need to develop its analytics capabilities using Power BI to thrive in the industry.
+Nicolas Hardware, a global leader in computers and accessories, faced unexpected losses after opening a store in America. These setbacks were identified to be caused due to reliance on outdated methods such as Excel for data analysis. To address this issue, the company's leadership recognized the need for a transformative approach to leveraging data for informed decision-making. With competitors boasting robust analytics teams, Nicolas Hardware recognizes the urgent need to develop its analytics capabilities using Power BI to thrive in the industry.
 
 To outshine competitors, they've adopted Power BI for analytics with 1.8 million transaction records from Excel, CSV, and MySQL. The Power BI Dashboard includes:
 - Home Page: Central navigation for Dashboard.
@@ -181,42 +181,42 @@ Please find the documentation links for the project phase-wise implementation be
 
 ### I. Home View: Dashboard Central navigation with buttons to navigate to all views.
 
-<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Home%20Page.jpg" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/BI%20360/Home%20page.jpg" width="100%" height="100%"> </div>
 
 ### II. Finance View: Aimed at enhancing financial planning and cost control. 
 
 Features P & L statement, Net Sales Trend over time, Net Sales Breakdown over Products & Customers and more.
 
-<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Finance%20View.jpg" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/BI%20360/Finance%20view.jpg" width="100%" height="100%"> </div>
 
 ### III. Sales View: Aimed at boosting sales revenue and market share. 
 
 Features Customer performance by NS & GM %, Gross Margin % Variance across Customers & Products, NS Breakdown and more.
 
-<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Sales%20View.jpg" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/BI%20360/sales%20view.jpg" width="100%" height="100%"> </div>
 
 ### IV. Marketing View: Aimed at elevating brand visibility and customer engagement. 
 
 Features Segment Performance by NP %, Gross Margin Breakdown, Net Profit % Variance across Regional/Segment Performance and more.
 
-<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Marketing%20View.jpg" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/BI%20360/Marketing%20view.jpg" width="100%" height="100%"> </div>
 
 ### V. Supply Chain View: Aimed at optimizing inventory management and better demand forecasting. 
 
 Features Forecast Accuracy and Net Error Trend, Forecast Accuracy % by Customer & Products and more.
 
-<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/SuppyChainView.jpg" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/BI%20360/Supply%20chain%20view.jpg" width="100%" height="100%"> </div>
 
 ### VI. Executive View: Aimed at providing top level view on overall organizational performance. 
 
 Features NS-GM%-NP%-FA% KPIs, Revenue Contribution by Divison/Channel, Top 5 Customers & Products, Sub Zone performance Market Share Trend and more.
 
-<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/Executive%20View.jpg" width="100%" height="100%"> </div>
+<div align="center"> <img src="https://github.com/BalagoniNuthin/Business-Insights-360/blob/main/BI%20360/Executive%20view.jpg" width="100%" height="100%"> </div>
 
 ---
 
 ## Conclusion:
-The Power BI Dashboard project for AtliQ Hardware provided a comprehensive, data-driven analysis across five critical business functions: Finance, Sales, Marketing, Supply Chain, and Executive. By integrating key business metrics such as Net Sales, Gross Margin, COGS, Net Profit % and Forecast Accuracy % the dashboard offers a holistic view of AtliQ's performance.
+The Power BI Dashboard project for Nicolas Hardware provided a comprehensive, data-driven analysis across five critical business functions: Finance, Sales, Marketing, Supply Chain, and Executive. By integrating key business metrics such as Net Sales, Gross Margin, COGS, Net Profit % and Forecast Accuracy % the dashboard offers a holistic view of AtliQ's performance.
 
 The insights gained from this analysis revealed areas of interest, such as robust sales performance and precise forecast accuracy, as well as areas of opportunities for improvement in weak profit margins and supply chain efficiency. Through interactive visualizations and detailed metrics, the dashboard empowers Atliq Hardware's leadership to make informed, strategic decisions that align with their business goals.
 
